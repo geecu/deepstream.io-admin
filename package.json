@@ -1,13 +1,13 @@
 {
   "name": "deepstream.io-admin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "deepstream.io-react-hoc": "git+ssh://git@bitbucket.org:guntherkonig/deepstream.io-react-hoc.git#v1.0",
+    "deepstream.io-react-hoc": "https://github.com/geecu/deepstream.io-react-hoc.git#v1.0",
     "inflection": "^1.10.0",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
